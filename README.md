@@ -5,3 +5,5 @@ tech stack tbd
 
 MVP -> assign users a rank based on questions solved. Assign different values to easy, med, hard questions.
         allow users to track and compete against any friend leetcoder
+
+Jira - https://asquadri.atlassian.net/jira/software/projects/LEET/boards/2
